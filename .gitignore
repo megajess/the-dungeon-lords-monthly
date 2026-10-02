@@ -1,0 +1,13 @@
+# Emacs stuff
+*~
+\#*\#
+.#*
+*.elc
+*.bak*
+
+# Common Lisp Stuff
+*.fasl
+system-index.txt
+
+# macOS stuff
+.DS_Store
